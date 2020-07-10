@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Programming isn't just a choice it's a lifestyle
+
+![Pls Help](https://user-images.githubusercontent.com/37976857/87190126-f8381f80-c302-11ea-9303-8407970067f9.jpg)
+
 <!--
 **RainingK/RainingK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
