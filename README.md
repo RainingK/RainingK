@@ -1,5 +1,5 @@
 ### Hey there, I'm Ammar
-## Since you've clicked on my profile. Here are some things you should konw about me.
+## Since you've clicked on my profile. Here are some things you should know about me.
 1. I like programming. That's it, you're caught up
   
 Programming isn't just a choice it's a lifestyle
