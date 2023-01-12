@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Ammar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Ammar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Always+On+The+Lookout+For+New+Tech"></a>
@@ -13,7 +13,7 @@
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/37976857/212146339-1deb4566-14b1-4824-b425-9977c2359311.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://user-images.githubusercontent.com/37976857/212146760-abe9f81b-cce9-4491-ad55-a87c874025a1.gif" width = 250px></picture>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/37976857/212146760-abe9f81b-cce9-4491-ad55-a87c874025a1.gif" width = 200px></picture>
 
 <br>
 
