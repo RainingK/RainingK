@@ -7,8 +7,12 @@
 
 <br>
 
-![snek svg](https://github.com/RainingK/RainingK/blob/output/github-snake-dark.svg)
-
+<!-- For Light Mode Users -->
+<!-- ![snek svg](https://github.com/RainingK/RainingK/blob/output/github-snake-dark.svg) -->
+<!-- For Dark Mode Users -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RainingK/RainingK/blob/output/github-snake-dark.svg">
+</picture>
 
 <br>
 	
