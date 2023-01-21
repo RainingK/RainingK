@@ -7,7 +7,8 @@
 
 <br>
 
-![snek svg](https://github.com/RainingK/RainingK/blob/output/github-contribution-grid-snake.svg)
+![snek svg](https://github.com/RainingK/RainingK/blob/output/github-snake-dark.svg)
+
 
 <br>
 	
